@@ -1,0 +1,4 @@
+﻿  자습.cpp
+C:\Users\준\Desktop\dongjoon\C++\자습\c++\c++\자습.cpp(10,12): warning C4244:  '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\준\Desktop\dongjoon\C++\자습\c++\c++\자습.cpp(24,13): warning C4326:  'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  c++.vcxproj -> C:\Users\준\Desktop\dongjoon\C++\자습\c++\Debug\c++.exe
